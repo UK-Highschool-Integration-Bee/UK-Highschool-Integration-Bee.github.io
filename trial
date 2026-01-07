@@ -1,8 +1,93 @@
-index.html
 <!DOCTYPE html>
 <html>
-  <body>
-    <h1>Hello</h1>
-    <p>If you can see this, GitHub Pages works.</p>
-  </body>
+<head>
+  <title>UK High School Integration Bee</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+<h1>UK High School Integration Bee</h1>
+
+<p><strong>An official UK mathematics competition based on A-Level integration.</strong></p>
+
+<p>
+The UK High School Integration Bee is a national mathematics competition designed
+to test students’ understanding of integration and their ability to apply it
+creatively and logically.
+</p>
+
+<hr>
+
+<h2>Who can take part?</h2>
+<p>
+Recommended for Year 12–13 students, but open to all UK school students.
+Participation is through schools, with supervision by an invigilator.
+</p>
+
+<hr>
+
+<h2>Competition Format</h2>
+
+<h3>Round 1 – School Round</h3>
+<ul>
+  <li>20 multiple-choice questions</li>
+  <li>5 answer options per question</li>
+  <li>+3 for a correct answer</li>
+  <li>−1 for an incorrect answer</li>
+  <li>No calculators or technology permitted</li>
+  <li>1 hour, completed in school under exam conditions</li>
+</ul>
+
+<p>
+Tie-breaks are decided by number of correct answers. If still tied, rankings are
+determined by the mean difficulty of the three hardest questions answered,
+with difficulty based on question number.
+</p>
+
+<h3>National Final (In Person)</h3>
+<ul>
+  <li>Top 10–20 students qualify</li>
+  <li>Round-robin whiteboard problem-solving</li>
+  <li>Top 8 progress to knockout rounds</li>
+  <li>Final held in person (location to be confirmed)</li>
+  <li>Total duration: approximately 2–3 hours</li>
+</ul>
+
+<hr>
+
+<h2>Important Dates</h2>
+<ul>
+  <li>Website launch: early January</li>
+  <li>Registration closes: 6 March</li>
+  <li>Round 1: 19 March</li>
+  <li>Results released: 27 March</li>
+  <li>National Final: 17 April</li>
+</ul>
+
+<hr>
+
+<h2>Awards</h2>
+<ul>
+  <li>Participation certificate for all students</li>
+  <li>Certificate of Commendation for top 33%</li>
+  <li>Best in School certificate</li>
+  <li>Finalists: qualification certificate and badge</li>
+  <li>Top 4: mathematics book prize</li>
+  <li>Top 3: gold, silver, and bronze medals</li>
+</ul>
+
+<hr>
+
+<h2>Practice Material</h2>
+<p>
+A practice Round 1 paper will be provided soon.
+</p>
+
+<hr>
+
+<p>
+Contact details and registration information coming shortly.
+</p>
+
+</body>
 </html>
